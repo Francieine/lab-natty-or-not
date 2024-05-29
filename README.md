@@ -22,8 +22,8 @@ Este é um ebook que convida o leitor a conhecer um pouco mais sobre a riqueza n
  7) Realizei a montagem do ebook no Microsoft Word 
 
 ## 🚀 Resultados
-[Link de acesso ao Ebook](https://raw.githubusercontent.com/Francieine/lab-natty-or-not/main/E-book.md)
 
+Link de acesso ao Ebook: https://raw.githubusercontent.com/Francieine/lab-natty-or-not/main/E-book.md
 
 ## 💭 Reflexão (Opcional)
 Ao utilizar IAs Generativas para criação deste ebook, percebi que essas são grandes aliadas dos seres humanos para o desveolvimento de tarefas que poderiam demorar semanas ou meses.```
